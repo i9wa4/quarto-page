@@ -1,5 +1,20 @@
 ---
-title: index.qmd タイトル
+title: トップページ index.qmd
+listing:
+  contents:
+    - "blog"
+    - "slides"  # トップページにスライドを表示させる場合
+  exclude:
+    filename: "index.qmd"
+  sort:
+    - "date desc"
 ---
 
 本文
+
+- [ブログ記事一覧](./blog)
+- [スライド一覧](./slides)
+
+## ブログとスライドの新着一覧
+
+ブログやスライドなどディレクトリを分けている記事をまとめてリスト表示することができます。

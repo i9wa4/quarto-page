@@ -1,0 +1,8 @@
+---
+title: スライド一覧
+listing:
+  contents:
+    - "."
+  sort:
+    - "date desc"
+---

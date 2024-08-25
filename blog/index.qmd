@@ -1,0 +1,8 @@
+---
+title: ブログ記事一覧
+listing:
+  contents:
+    - "."
+  sort:
+    - "date desc"
+---

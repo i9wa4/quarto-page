@@ -1,0 +1,19 @@
+---
+title: "test2-slide タイトル"
+author: i9wa4
+date: 2024-08-25
+format:
+  revealjs:
+    slide-level: 2
+    slide-number: true
+---
+
+本文
+
+## サブタイトル1
+
+本文
+
+## サブタイトル2
+
+本文
