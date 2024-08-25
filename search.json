@@ -2,8 +2,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "index.qmd タイトル",
+    "title": "トップページ index.qmd",
     "section": "",
     "text": "本文"
+  },
+  {
+    "objectID": "index.html#ブログとスライドの新着一覧",
+    "href": "index.html#ブログとスライドの新着一覧",
+    "title": "トップページ index.qmd",
+    "section": "ブログとスライドの新着一覧",
+    "text": "ブログとスライドの新着一覧\nブログやスライドなどディレクトリを分けている記事をまとめてリスト表示することができます。"
+  },
+  {
+    "objectID": "blog/2024-08-25-test1.html",
+    "href": "blog/2024-08-25-test1.html",
+    "title": "test1",
+    "section": "",
+    "text": "1行目\nファイル名の先頭に日付をつけておくと管理しやすいですが必須ではありません。"
+  },
+  {
+    "objectID": "slides/index.html",
+    "href": "slides/index.html",
+    "title": "スライド一覧",
+    "section": "",
+    "text": "test1-slide タイトル\n\n\n\n\n\n\n\n\n\n\n\nAug 25, 2024\n\n\ni9wa4\n\n\n\n\n\n\n\n\n\n\n\n\ntest2-slide タイトル\n\n\n\n\n\n\n\n\n\n\n\nAug 25, 2024\n\n\ni9wa4\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "slides/test1-slide.html#サブタイトル1",
+    "href": "slides/test1-slide.html#サブタイトル1",
+    "title": "test1-slide タイトル",
+    "section": "サブタイトル1",
+    "text": "サブタイトル1\n本文"
+  },
+  {
+    "objectID": "slides/test1-slide.html#サブタイトル2",
+    "href": "slides/test1-slide.html#サブタイトル2",
+    "title": "test1-slide タイトル",
+    "section": "サブタイトル2",
+    "text": "サブタイトル2\n本文"
+  },
+  {
+    "objectID": "slides/test2-slide.html#サブタイトル1",
+    "href": "slides/test2-slide.html#サブタイトル1",
+    "title": "test2-slide タイトル",
+    "section": "サブタイトル1",
+    "text": "サブタイトル1\n本文"
+  },
+  {
+    "objectID": "slides/test2-slide.html#サブタイトル2",
+    "href": "slides/test2-slide.html#サブタイトル2",
+    "title": "test2-slide タイトル",
+    "section": "サブタイトル2",
+    "text": "サブタイトル2\n本文"
+  },
+  {
+    "objectID": "blog/test2.html",
+    "href": "blog/test2.html",
+    "title": "test2",
+    "section": "",
+    "text": "ここが1行目\nファイル名の先頭に日付をつけておくと管理しやすいですが必須ではありません。"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "ブログ記事一覧",
+    "section": "",
+    "text": "test2\n\n\n\n\n\n\n\n\n\n\n\nAug 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\ntest1\n\n\n\n\n\n\n\n\n\n\n\nAug 25, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]

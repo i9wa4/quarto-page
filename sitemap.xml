@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://i9wa4.github.io/quarto-page/index.html</loc>
-    <lastmod>2024-08-25T07:34:31.127Z</lastmod>
+    <lastmod>2024-08-25T08:25:24.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://i9wa4.github.io/quarto-page/blog/2024-08-25-test1.html</loc>
+    <lastmod>2024-08-25T08:25:24.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://i9wa4.github.io/quarto-page/slides/index.html</loc>
+    <lastmod>2024-08-25T08:25:24.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://i9wa4.github.io/quarto-page/slides/test1-slide.html</loc>
+    <lastmod>2024-08-25T08:25:24.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://i9wa4.github.io/quarto-page/slides/test2-slide.html</loc>
+    <lastmod>2024-08-25T08:25:24.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://i9wa4.github.io/quarto-page/blog/test2.html</loc>
+    <lastmod>2024-08-25T08:25:24.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://i9wa4.github.io/quarto-page/blog/index.html</loc>
+    <lastmod>2024-08-25T08:25:24.264Z</lastmod>
   </url>
 </urlset>
